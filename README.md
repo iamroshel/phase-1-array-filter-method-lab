@@ -1,4 +1,4 @@
-# Using the Array Filter Method
+# Using the Array Filter Method c
 
 ## Learning Goals
 
